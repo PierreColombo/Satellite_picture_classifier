@@ -1,0 +1,1250 @@
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.984, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.613, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.663, learning rate: 0.009500
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.520, learning rate: 0.009025
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.443, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.476019445269
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.454142987218
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.815, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.552, learning rate: 0.010000
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.550, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.342, learning rate: 0.009025
+Minibatch error: 0.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.399, learning rate: 0.008574
+Minibatch error: 6.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.30920116985
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.322806683659
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 2.098, learning rate: 0.010000
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.587, learning rate: 0.010000
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.623, learning rate: 0.009500
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.645, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.748, learning rate: 0.008574
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.419498170444
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.526075501363
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 2.034, learning rate: 0.010000
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.495, learning rate: 0.009500
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.595, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.670, learning rate: 0.008574
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.426, learning rate: 0.008145
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.379132474388
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.372658154309
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.395962814988
+Validation score values:  0.418920831637
+Final TRAINING score achieved:  0.395962814988
+Final VALIDATION score achieved:  0.418920831637
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.954, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.554, learning rate: 0.010000
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.408, learning rate: 0.009500
+Minibatch error: 6.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.477, learning rate: 0.009025
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.471, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.400153943039
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.344228877051
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.703, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.703, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.531, learning rate: 0.009500
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.416, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.403, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.329691196725
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.340164113454
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 1.800, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.797, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.631, learning rate: 0.009500
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.497, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.665, learning rate: 0.008574
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.289155831521
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.393763275556
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 1.872, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.751, learning rate: 0.009500
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.619, learning rate: 0.009025
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.407, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.580, learning rate: 0.008145
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.30700660508
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.284274648635
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.36373235454
+Validation score values:  0.379764280156
+Final TRAINING score achieved:  0.36373235454
+Final VALIDATION score achieved:  0.379764280156
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.826, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.734, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.596, learning rate: 0.009500
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.625, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.558, learning rate: 0.008574
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.295184584279
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.23660062512
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.991, learning rate: 0.010000
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.780, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.510, learning rate: 0.009500
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.425, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.504, learning rate: 0.008574
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.344510521367
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.33614971314
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 2.296, learning rate: 0.010000
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.696, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.571, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.509, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.456, learning rate: 0.008574
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.369087550702
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.50889873731
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 1.991, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.595, learning rate: 0.009500
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.665, learning rate: 0.009025
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.516, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.582, learning rate: 0.008145
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.316712898974
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.301698383018
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.352946199303
+Validation score values:  0.368455141653
+Final TRAINING score achieved:  0.352946199303
+Final VALIDATION score achieved:  0.368455141653
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 2.261, learning rate: 0.010000
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.701, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.539, learning rate: 0.009500
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.542, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.787, learning rate: 0.008574
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.372786575667
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.308317113378
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.804, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.490, learning rate: 0.010000
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.535, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.642, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.536, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.377933251339
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.382241467656
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 2.205, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.566, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.554, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.498, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.562, learning rate: 0.008574
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.419738360901
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.477344624458
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 1.852, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.710, learning rate: 0.009500
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.515, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.421, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.492, learning rate: 0.008145
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.367859456001
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.356586654403
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.360854502222
+Validation score values:  0.371621972483
+Final TRAINING score achieved:  0.360854502222
+Final VALIDATION score achieved:  0.371621972483
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 2.084, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.663, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.495, learning rate: 0.009500
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.724, learning rate: 0.009025
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.348, learning rate: 0.008574
+Minibatch error: 6.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.318337161689
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.300357069342
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.855, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.574, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.658, learning rate: 0.009500
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.463, learning rate: 0.009025
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.397, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.253851437653
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.212971317697
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 1.643, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.853, learning rate: 0.010000
+Minibatch error: 75.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.576, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.462, learning rate: 0.009025
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.733, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.296885849362
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.458493862461
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 1.782, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.470, learning rate: 0.009500
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.535, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.455, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.476, learning rate: 0.008145
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.371222707331
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.389662849779
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.350698459579
+Validation score values:  0.36537183295
+Final TRAINING score achieved:  0.350698459579
+Final VALIDATION score achieved:  0.36537183295
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.844, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.655, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.550, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.389, learning rate: 0.009025
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.431, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.303798699801
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.251295552072
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.720, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.675, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.572, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.592, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.519, learning rate: 0.008574
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.346666624474
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.330367836854
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 2.024, learning rate: 0.010000
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.714, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.615, learning rate: 0.009500
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.504, learning rate: 0.009025
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.524, learning rate: 0.008574
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.285171884211
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.448008622578
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 2.069, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.690, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.574, learning rate: 0.009025
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.439, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.471, learning rate: 0.008145
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.347746005062
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.332888770447
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.34572301688
+Validation score values:  0.361249893373
+Final TRAINING score achieved:  0.34572301688
+Final VALIDATION score achieved:  0.361249893373
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.973, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.706, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.433, learning rate: 0.009500
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.598, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.552, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.323758953685
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.275698287315
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 1.843, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.614, learning rate: 0.010000
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.823, learning rate: 0.009500
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.652, learning rate: 0.009025
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.620, learning rate: 0.008574
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.393099432753
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.39365051692
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 2.179, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.661, learning rate: 0.010000
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.525, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.770, learning rate: 0.009025
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.532, learning rate: 0.008574
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.318422713312
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.474110240679
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 2.217, learning rate: 0.010000
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.635, learning rate: 0.009500
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.752, learning rate: 0.009025
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.459, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.480, learning rate: 0.008145
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.27052125523
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.23595485394
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.342969812861
+Validation score values:  0.35890754785
+Final TRAINING score achieved:  0.342969812861
+Final VALIDATION score achieved:  0.35890754785
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17433 c1 = 5692
+Balancing training data...
+11384
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5692 c1 = 5692
+Initialized!
+Total number of iterations = 3557
+Epoch 0.00
+Minibatch loss: 1.962, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.712, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.512, learning rate: 0.009500
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.785, learning rate: 0.009025
+Minibatch error: 56.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.558, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.293982882972
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.251265597608
+--END OF RUN--
+[14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [ 1  2  3  4  5  6  7  8  9 10 11 12 13]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17138 c1 = 5987
+Balancing training data...
+11974
+(23125, 16, 16, 3)
+Number of data points per class: c0 = 5987 c1 = 5987
+Initialized!
+Total number of iterations = 3741
+Epoch 0.00
+Minibatch loss: 2.168, learning rate: 0.010000
+Minibatch error: 62.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.663, learning rate: 0.010000
+Minibatch error: 37.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.440, learning rate: 0.009500
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.570, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.389, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.350259204861
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.366268784384
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 27 28 29 30 31 32 33 34 35 36 37 38
+ 39 40 41 42 43 44 45 46 47 48 49 50] [14 15 16 17 18 19 20 21 22 23 24 25 26]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17855 c1 = 5895
+Balancing training data...
+11790
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 5895 c1 = 5895
+Initialized!
+Total number of iterations = 3684
+Epoch 0.00
+Minibatch loss: 1.771, learning rate: 0.010000
+Minibatch error: 25.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.666, learning rate: 0.010000
+Minibatch error: 50.0%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.537, learning rate: 0.009500
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.616, learning rate: 0.009025
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.562, learning rate: 0.008574
+Minibatch error: 18.8%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.335349071586
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.428690847894
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 39 40 41 42 43 44 45 46 47 48 49 50] [27 28 29 30 31 32 33 34 35 36 37 38]
+Loading images from disk...
+Loading labels from disk...
+Loading images from disk...
+Loading labels from disk...
+Number of data points per class: c0 = 17726 c1 = 6024
+Balancing training data...
+12048
+(23750, 16, 16, 3)
+Number of data points per class: c0 = 6024 c1 = 6024
+Initialized!
+Total number of iterations = 3765
+Epoch 0.00
+Minibatch loss: 2.014, learning rate: 0.010000
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.594, learning rate: 0.009500
+Minibatch error: 43.8%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.389, learning rate: 0.009025
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.596, learning rate: 0.008574
+Minibatch error: 31.2%
+Model saved in file: ../../models/model.ckpt
+Epoch 0.00
+Minibatch loss: 1.338, learning rate: 0.008145
+Minibatch error: 12.5%
+Model saved in file: ../../models/model.ckpt
+Running prediction on TRAINING set
+Run TRAINING score achieved:  0.302295947969
+Running prediction on VALIDATION set
+Run VALIDATION score achieved:  0.273397926954
+--END OF RUN--
+[ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+ 26 27 28 29 30 31 32 33 34 35 36 37 38] [39 40 41 42 43 44 45 46 47 48 49 50]
+Training score values:  0.340157558359
+Validation score values:  0.35528232802
+Final TRAINING score achieved:  0.340157558359
+Final VALIDATION score achieved:  0.35528232802
+Best threshold:  0.1  with index:  0  and test score:  0.418920831637
+Final results:  [(0.10000000000000001, 0.39596281498793445, 0.41892083163716065), (0.2142857142857143, 0.36373235453969072, 0.37976428015560632), (0.32857142857142863, 0.35294619930324295, 0.36845514165278265), (0.44285714285714284, 0.36085450222168214, 0.37162197248305801), (0.55714285714285716, 0.3506984595790667, 0.36537183295038828), (0.67142857142857149, 0.34572301688037105, 0.36124989337329994), (0.7857142857142857, 0.34296981286102374, 0.35890754785045864), (0.90000000000000002, 0.34015755835925454, 0.35528232802037668)]

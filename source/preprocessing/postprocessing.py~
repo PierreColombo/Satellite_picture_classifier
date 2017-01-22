@@ -1,0 +1,36 @@
+from skimage.morphology import erosion, dilation, opening, closing, white_tophat
+from skimage.morphology import black_tophat, skeletonize, convex_hull_image
+from skimage.morphology import disk
+
+
+import matplotlib.pyplot as plt
+from skimage.data import data_dir
+from skimage.util import img_as_ubyte
+from skimage import io
+from PIL import Image
+
+
+def plot_comparison(original, filtered, filter_name):
+
+    fig, (ax1, ax2) = plt.subplots(ncols=2, figsize=(8, 4), sharex=True, sharey=True)
+    ax1.imshow(original, cmap=plt.cm.gray)
+    ax1.set_title('original')
+    ax1.axis('off')
+    ax1.set_adjustable('box-forced')
+    ax2.imshow(filtered, cmap=plt.cm.gray)
+    ax2.set_title(filter_name)
+    ax2.axis('off')
+    ax2.set_adjustable('box-forced')
+    plt.show()
+
+
+binary = Image.open('train_dir/groundtruth/test.png') # open colour image
+binary = binary.convert('1') # convert image to black and white
+
+selem = disk(6)
+dilated = dilation(binary, selem)
+plot_comparison(binary, dilated, 'dilation')
+selem = disk(6)
+eroded = erosion(dilated, selem)
+plot_comparison(binary, eroded, 'erosion')
+

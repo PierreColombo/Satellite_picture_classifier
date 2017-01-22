@@ -1,0 +1,32 @@
+Cross validation :
+
+
+For the threshold :
+                                  Score           foreground_threshold
+Run TRAINING score pat achieved:  0.872438214454   0.5
+Run TRAINING score pat achieved:  0.871656932239   0.75
+Run TRAINING score pat achieved:  0.87354756428    0.60
+Run TRAINING score pat achieved:  0.872908150873   0.70
+Run TRAINING score pat achieved:  0.867875575246   0.40
+Run TRAINING score pat achieved:  0.857050875029   0.30
+
+
+For the epoch :
+Number of epochs     Score achieved training  Score achieved training
+  4                          0.7788               0.7649
+  5                          0.7818               0.77558
+  6                          0.7859               0.7866
+  7                          0.8016               0.79076
+  8                          0.8257               0.76584
+
+
+
+
+For the Batch Size :
+Batch size       Score achieved training  Score achieved training
+  8                           0.768141              0.7479229
+  16                          0.781871             0.77558
+  20                          0.78202              0.75653
+  32                          0.7880               0.7472
+  40                          0.7921               0.7459
+
